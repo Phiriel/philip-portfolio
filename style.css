@@ -8,15 +8,6 @@ body.dark {
     scroll-behavior: smooth;
   }
   
-  .header {
-    position: sticky;
-    top: 0;
-    background-color: #1f1f1f;
-    padding: 1rem 2rem;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
-    z-index: 1000;
-  }
-  
   .nav {
     display: flex;
     justify-content: center;
